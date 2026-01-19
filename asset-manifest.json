@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ai-resume-generator/static/css/main.576be69d.css",
+    "main.js": "/ai-resume-generator/static/js/main.4802a7a4.js",
+    "static/js/453.864ef74b.chunk.js": "/ai-resume-generator/static/js/453.864ef74b.chunk.js",
+    "index.html": "/ai-resume-generator/index.html",
+    "main.576be69d.css.map": "/ai-resume-generator/static/css/main.576be69d.css.map",
+    "main.4802a7a4.js.map": "/ai-resume-generator/static/js/main.4802a7a4.js.map",
+    "453.864ef74b.chunk.js.map": "/ai-resume-generator/static/js/453.864ef74b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.576be69d.css",
+    "static/js/main.4802a7a4.js"
+  ]
+}
