@@ -17,19 +17,23 @@ It extracts skills and experience keywords, applies varied sentence structures, 
 - HTML, CSS  
 - Python  
 - Flask  
-- Flask-CORS  
+- Flask-CORS
+
+## Screenshots
+![alt text](<Screenshot 1 - Light Mode.png>) ![alt text](<Screenshot 2 - Dark Mode.png>)
 
 ## How to Run Locally
+### Frontend
 
+```bash
+cd ai-resume-generator
+npm install
+npm start
+```
 ### Backend
 
 ```bash
 cd ai-backend
 pip install flask flask-cors
 python app.py
-
-### Frontend
-
-cd ai-resume-generator
-npm install
-npm start
+```
