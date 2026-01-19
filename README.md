@@ -37,3 +37,6 @@ cd ai-backend
 pip install flask flask-cors
 python app.py
 ```
+
+## Online Demo
+https://MHK2002.github.io/ai-resume-generator
